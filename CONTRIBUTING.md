@@ -6,3 +6,4 @@ Notes and usage details for vibe-service-guardian.
 - fix a small wording issue
 - add a note about the defaults
 - link the usage section
+- clarify the setup steps
